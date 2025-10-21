@@ -1,0 +1,16 @@
+mqtt\platform_thread.o: ..\mqtt\platform\FreeRTOS\platform_thread.c
+mqtt\platform_thread.o: ..\mqtt\platform\FreeRTOS\platform_thread.h
+mqtt\platform_thread.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mqtt\platform_thread.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stddef.h
+mqtt\platform_thread.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdint.h
+mqtt\platform_thread.o: ../Core/Inc/FreeRTOSConfig.h
+mqtt\platform_thread.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mqtt\platform_thread.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mqtt\platform_thread.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mqtt\platform_thread.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mqtt\platform_thread.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mqtt\platform_thread.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mqtt\platform_thread.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mqtt\platform_thread.o: ..\mqtt\platform\FreeRTOS\platform_memory.h
+mqtt\platform_thread.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdlib.h
+mqtt\platform_thread.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,17 @@
+mqtt\arch.o: ..\mqtt\common\log\arch\freertos\arch.c
+mqtt\arch.o: ../mqtt/common/log/salof_defconfig.h
+mqtt\arch.o: ../mqtt/common/log/salof_config.h
+mqtt\arch.o: ../mqtt/test/mqtt_config.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mqtt\arch.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stddef.h
+mqtt\arch.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdint.h
+mqtt\arch.o: ../Core/Inc/FreeRTOSConfig.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
+mqtt\arch.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

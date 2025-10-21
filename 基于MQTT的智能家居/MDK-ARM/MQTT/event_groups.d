@@ -1,0 +1,15 @@
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+mqtt\event_groups.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdlib.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mqtt\event_groups.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stddef.h
+mqtt\event_groups.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdint.h
+mqtt\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+mqtt\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

@@ -1,0 +1,14 @@
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+mqtt\stream_buffer.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdint.h
+mqtt\stream_buffer.o: D:\keil\core\ARM\ARMCC\Bin\..\include\string.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mqtt\stream_buffer.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stddef.h
+mqtt\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mqtt\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

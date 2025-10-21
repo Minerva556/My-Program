@@ -1,0 +1,15 @@
+mqtt\random.o: ..\mqtt\common\random.c
+mqtt\random.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdlib.h
+mqtt\random.o: ..\mqtt\common\random.h
+mqtt\random.o: ../mqtt/platform/FreeRTOS/platform_timer.h
+mqtt\random.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mqtt\random.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stddef.h
+mqtt\random.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdint.h
+mqtt\random.o: ../Core/Inc/FreeRTOSConfig.h
+mqtt\random.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mqtt\random.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mqtt\random.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mqtt\random.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mqtt\random.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mqtt\random.o: ../mqtt/platform/FreeRTOS/platform_memory.h
+mqtt\random.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdio.h

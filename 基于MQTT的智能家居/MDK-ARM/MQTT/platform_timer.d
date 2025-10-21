@@ -1,0 +1,13 @@
+mqtt\platform_timer.o: ..\mqtt\platform\FreeRTOS\platform_timer.c
+mqtt\platform_timer.o: ..\mqtt\platform\FreeRTOS\platform_timer.h
+mqtt\platform_timer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mqtt\platform_timer.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stddef.h
+mqtt\platform_timer.o: D:\keil\core\ARM\ARMCC\Bin\..\include\stdint.h
+mqtt\platform_timer.o: ../Core/Inc/FreeRTOSConfig.h
+mqtt\platform_timer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mqtt\platform_timer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mqtt\platform_timer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mqtt\platform_timer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mqtt\platform_timer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mqtt\platform_timer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mqtt\platform_timer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
