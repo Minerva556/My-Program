@@ -1,0 +1,5 @@
+../Core/Src/iis3dwb_read_data.c:55:6:iis3dwb_read_data_polling	72	static
+../Core/Src/iis3dwb_read_data.c:146:16:platform_write	24	static
+../Core/Src/iis3dwb_read_data.c:156:16:platform_read	24	static
+../Core/Src/iis3dwb_read_data.c:168:13:platform_delay	16	static
+../Core/Src/iis3dwb_read_data.c:173:6:fill_buffer	24	static
