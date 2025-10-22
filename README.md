@@ -8,7 +8,15 @@
   开发环境：Vscode(插件：EIDE，cotex-debug)，Keil（用于调试）
   接线：串口一用于打印调试信息，串口三用于外接ESP8266模块。
   🙀🙀🙀特别注意：该项目使用keil的ARM5编译器进行编译；若编译报错，首先查看自己的keil中是否有ARM5编译器。
-  
+
+项目二：
+  名称：bearing_fault_ai
+  说明：使用CubeMX配置，使用SPI实现，其中模型部分由NanoEdge AI训练。
+  开发板：STM32L4R9ZIJ6。
+  开发环境：CubeIDE
+  接线：无接线。
+  🙀🙀🙀特别注意：该项目使用STWINKT1B开发板，使用传感器为该开发板集成好的振动传感器IIS3DWB，理论上将该项目打开直接烧录进去即可使用；振动信号采集模型为NanoEdge AI所训练，数据集使用官方脚本驱动IIS3DWB进行采集。
+
 若出现问题不能解决，请联系本人(虽然...我也可能解决不了😁)。
 邮箱：Minerva1_2@outlook.com
 未完待续...
